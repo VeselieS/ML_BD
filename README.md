@@ -1,1 +1,1 @@
-Mashine learning and big data
+Machine learning and big data
